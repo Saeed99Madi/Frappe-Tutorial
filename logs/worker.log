@@ -1,0 +1,8 @@
+2023-04-14 22:33:12,590 Worker rq:worker:73843244b3254fcc924ee2bc045e3840: started, version 1.8.1
+2023-04-14 22:33:12,590 Subscribing to channel rq:pubsub:73843244b3254fcc924ee2bc045e3840
+2023-04-14 22:33:12,591 *** Listening on default, short, long...
+2023-04-14 22:33:12,592 Cleaning registries for queue: default
+2023-04-14 22:33:12,593 Cleaning registries for queue: short
+2023-04-14 22:33:12,594 Cleaning registries for queue: long
+2023-04-14 22:34:10,714 Warm shut down requested
+2023-04-14 22:34:10,717 Unsubscribing from channel rq:pubsub:73843244b3254fcc924ee2bc045e3840

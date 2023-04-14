@@ -14,3 +14,18 @@
 2023-04-14 22:24:47,439 LOG setting up backups
 2023-04-14 22:24:47,455 LOG backups were set up
 2023-04-14 22:24:47,456 INFO Bench frappe-bench initialized
+2023-04-14 22:33:11,492 INFO /usr/local/bin/bench start
+2023-04-14 22:33:11,788 INFO /usr/local/bin/bench serve --port 8000
+2023-04-14 22:33:11,799 INFO /usr/local/bin/bench watch
+2023-04-14 22:33:11,807 INFO /usr/local/bin/bench schedule
+2023-04-14 22:33:11,816 INFO /usr/local/bin/bench worker
+2023-04-14 22:34:12,641 INFO /usr/local/bin/bench find .
+2023-04-14 22:34:22,418 INFO /usr/local/bin/bench new-app library_management
+2023-04-14 22:34:22,422 LOG creating new app library_management
+2023-04-14 22:35:00,024 LOG Installing library_management
+2023-04-14 22:35:00,025 DEBUG cd /home/ab7abeeb/Desktop/frappe-projects/frappe-bench && /home/ab7abeeb/Desktop/frappe-projects/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/ab7abeeb/Desktop/frappe-projects/frappe-bench/apps/library_management 
+2023-04-14 22:35:01,508 DEBUG bench build --app library_management
+2023-04-14 22:35:01,603 INFO /usr/local/bin/bench build --app library_management
+2023-04-14 22:35:14,462 DEBUG cd /home/ab7abeeb/Desktop/frappe-projects/frappe-bench && sudo supervisorctl restart frappe:
+2023-04-14 22:35:14,628 WARNING cd /home/ab7abeeb/Desktop/frappe-projects/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
+2023-04-14 22:35:14,628 WARNING restarting supervisor failed. Use `bench restart` to retry.

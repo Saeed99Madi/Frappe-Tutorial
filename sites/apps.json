@@ -7,5 +7,15 @@
         "required": [],
         "idx": 1,
         "version": "13.53.2"
+    },
+    "library_management": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "061a0fc1211a366b316c529fd2d761186cc0ce28",
+            "branch": "master"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
     }
 }
