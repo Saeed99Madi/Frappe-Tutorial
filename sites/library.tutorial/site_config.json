@@ -1,0 +1,6 @@
+{
+  "db_name": "librarydb",
+  "db_password": "pIcvKzaX86ILGvTE",
+  "db_type": "mariadb",
+  "developer_mode": 1
+}

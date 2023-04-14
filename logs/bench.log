@@ -29,3 +29,6 @@
 2023-04-14 22:35:14,462 DEBUG cd /home/ab7abeeb/Desktop/frappe-projects/frappe-bench && sudo supervisorctl restart frappe:
 2023-04-14 22:35:14,628 WARNING cd /home/ab7abeeb/Desktop/frappe-projects/frappe-bench && sudo supervisorctl restart frappe: executed with exit code 2
 2023-04-14 22:35:14,628 WARNING restarting supervisor failed. Use `bench restart` to retry.
+2023-04-14 22:38:13,922 INFO /usr/local/bin/bench new-site library.test
+2023-04-14 22:44:25,807 INFO /usr/local/bin/bench new-site library.test --db-name librarydb
+2023-04-14 22:44:58,566 INFO /usr/local/bin/bench new-site library.tutorial --db-name librarydb
